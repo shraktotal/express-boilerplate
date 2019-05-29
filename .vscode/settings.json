@@ -1,0 +1,16 @@
+{
+  "editor.tabSize": 2,
+  "editor.rulers": [
+      100
+  ],
+  "javascript.validate.enable": false,
+  "typescript.validate.enable": false,
+  "eslint.autoFixOnSave": true,
+  "eslint.packageManager": "yarn",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "files.associations": {
+    "yarn.lock": "yaml"
+  }
+}
